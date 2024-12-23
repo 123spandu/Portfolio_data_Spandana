@@ -27,7 +27,6 @@ import udemy from "../assets/udemy.png";
 import bank from "../assets/bank.png";
 import hp from "../assets/hp.png";
 import accenture from "../assets/Accenture.png";
-import agm from "../assets/agm.png";
 import micro from "../assets/micro.png";
 
 
